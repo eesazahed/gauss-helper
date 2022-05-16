@@ -40,6 +40,10 @@ ul {
   width: 100%;
 }
 
+.contest-options span {
+  transition: 0.3s; 
+}
+
 .contest-options span:hover {
   background-color: aqua;
   color: blue;
